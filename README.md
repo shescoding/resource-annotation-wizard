@@ -22,9 +22,9 @@ Resource Annotation Wizard installation notes
 	brew install python3
 	http://docs.python-guide.org/en/latest/starting/install3/osx/
 
-4. install Django 1.11.7
+4. install Django 2
 	pip3 install Django
-	https://docs.djangoproject.com/en/1.11/topics/install/#installing-official-release
+	https://docs.djangoproject.com/en/2.0/intro/install/
 
 5. install PostgresQL
 	TBD
@@ -36,4 +36,5 @@ Resource Annotation Wizard installation notes
 
 8. start the server
 	python3 manage.py runserver 
+	go to http://127.0.0.1:8000/
 
